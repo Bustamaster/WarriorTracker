@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Warrior Tracker
+## Notes: Kopie Hunter Range Bar pripravena k uprave pro warriora.
+## Version: 1.0.0
+## SavedVariables: WarriorTrackerDB
+
+WarriorTracker.lua
